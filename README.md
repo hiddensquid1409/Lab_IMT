@@ -54,8 +54,7 @@ The starting point of the solution is **always with the green center cubie as th
 
 <img src = "./images/solution.png">
 
-## Example solution 
-<img src = "./images/Demo%20solution.png" width = 300>
+
 
 
 # DEMO 
