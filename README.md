@@ -55,11 +55,6 @@ The starting point of the solution is **always with the green center cubie as th
 <img src = "./images/solution.png">
 
 
-
-
-# DEMO 
-[Video Presentation with all the steps aforementioned](https://drive.google.com/open?id=1RDCXruvJYaT_U2iTOshzxpVw3NKJT1fm)
-
 ## Team
 | Name | Student Number|
 |-----|---------|
